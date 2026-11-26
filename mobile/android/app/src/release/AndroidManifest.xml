@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Release: HTTPS only. The default dev base URL (http://10.0.2.2) is
+         replaced at build time via --dart-define=API_BASE_URL=https://... -->
+    <application android:usesCleartextTraffic="false" />
+</manifest>
